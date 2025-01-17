@@ -27,4 +27,4 @@ app.MapLiteDbTables();
 
 ## Demo
 
-![Screenshot_18-1-2025_01639_localhost](https://github.com/user-attachments/assets/a657c4c0-c521-4aa6-893a-9b1231a5d262)
+![Screenshot 2025-01-18 at 00-30-48 persons](https://github.com/user-attachments/assets/2a64a99e-b11a-45a9-b8dc-4ec178c525c7)
